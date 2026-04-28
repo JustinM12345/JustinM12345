@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 I'm currently a Mathematics student at the University of Waterloo.<br>🤖 I’m curious about Software Development, Data Science, and AI.<br>💻 I'm on the grind to land that first coop.<br>🏋️ In my free time I love swimming and working out at the gym.
+📝 I'm currently a Mathematics student at the University of Waterloo.<br>🤖 I’m curious about Software Development, Data Science, and AI.<br>🏋️ In my free time I love swimming and working out at the gym.
 
 
 ## 🌐 Socials:
@@ -12,3 +12,4 @@
 [![](https://visitcount.itsvg.in/api?id=JustinM12345&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--<br>💻 I'm on the grind to land that first coop.>
